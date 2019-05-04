@@ -12,5 +12,5 @@
   
   
 + 代码参考：
-  + https://github.com/Tianxiaomo/tensorflow_notebook（整洁）
-  + https://github.com/kaixindelele/tensorflow_notebook（较乱）
+  + （整洁）：https://github.com/Tianxiaomo/tensorflow_notebook
+  + （较乱）：https://github.com/kaixindelele/tensorflow_notebook
